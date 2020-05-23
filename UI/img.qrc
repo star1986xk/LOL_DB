@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>img/bg3.png</file>
+    <file>img/bg2.jpg</file>
+    <file>img/bg1.jpg</file>
+    <file>img/bg.jpg</file>
+    <file>img/上一页.png</file>
+    <file>img/关闭.png</file>
+    <file>img/关闭1.png</file>
+    <file>img/下一页.png</file>
+    <file>img/10.jpg</file>
+    <file>img/11.jpg</file>
+    <file>img/12.jpg</file>
+    <file>img/13.jpg</file>
+    <file>img/14.jpg</file>
+    <file>img/15.png</file>
+    <file>img/16.png</file>
+    <file>img/17.png</file>
+  </qresource>
+</RCC>
